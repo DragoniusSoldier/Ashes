@@ -36,12 +36,11 @@ displayName="${mod_name}" #mandatory
 #credits="" #optional
 
 # The authors of the mod, displayed in the mod UI (optional)
-#authors=""
+authors="Dragonius"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Example mod description.
-'''
+Aspects of Old brings in a new power system, trough the use of a skilltree based on various aspects'''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
 #[[mixins]]
